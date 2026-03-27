@@ -1,0 +1,26 @@
+This project analyzes sales performance using Excel, focusing on regions, platforms, and customer segments.
+
+📁 Dataset = [Vrinda Store Data Analysis.xlsx](https://github.com/user-attachments/files/26297869/Vrinda.Store.Data.Analysis.xlsx)
+📸screenshot = <img width="800" height="578" alt="Screenshot 2026-03-27 122442" src="https://github.com/user-attachments/assets/140039fb-723d-47d4-a42e-4c39450ff44c" />
+# Vrinda Store Sales Analysis Dashboard
+
+## Objective
+
+Analyze sales performance across states, platforms, and customer segments.
+
+## Tools Used
+
+* Microsoft Excel
+
+## Key Insights
+
+* Maharashtra contributes the highest share of total sales
+* Amazon and Flipkart generate ~57% of total sales
+* 92% delivery success rate indicates strong operations
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Pivot Tables
+* Dashboard Creation
+* Business Insights
